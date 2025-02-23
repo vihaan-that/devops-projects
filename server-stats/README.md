@@ -26,6 +26,8 @@ The `server-stats.sh` script provides essential server performance statistics, h
    ```bash
    ./server-stats.sh
    ```
-
+## Project Roadmap
+For future improvements and feature suggestions, refer to the official roadmap:
+[Server Stats Roadmap](https://roadmap.sh/projects/server-stats)
 
 
